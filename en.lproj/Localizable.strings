@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  testing
+
+  Created by Nisan Coskun on 7.01.2022.
+  
+*/
+"mercury-chat" = "Mercury Chat";
+"chat" = "Chat";
+"chats" = "Chats";
+"delete-chat" = "Delete Chat";
+"mute-notifications" = "Mute Notifications";
+"video-call" = "Video Call";
+"phone-call" = "Phone Call";
+"message-placeholder" = "Message...";
+"settings" = "Settings";

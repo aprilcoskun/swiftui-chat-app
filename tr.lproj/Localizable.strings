@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  testing
+
+  Created by Nisan Coskun on 7.01.2022.
+  
+*/
+"mercury-chat" = "Mercury Chat";
+"chat" = "Chat";
+"chats" = "Mesajlar";
+"delete-chat" = "Mesajları Sil";
+"mute-notifications" = "Bildirimleri Kapat";
+"video-call" = "Görüntülü Ara";
+"phone-call" = "Ara";
+"message-placeholder" = "Mesaj...";
+"settings" = "Ayarlar";
